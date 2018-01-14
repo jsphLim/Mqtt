@@ -6,7 +6,6 @@ import org.eclipse.paho.client.mqttv3.MqttCallback;
 import org.eclipse.paho.client.mqttv3.MqttMessage;
 /**
  *@jsphlim
- * ps:服务器用的是贻圣师兄的
  */
 public class PublishCallBack implements MqttCallback {
 
