@@ -12,7 +12,6 @@ import java.util.Date;
 import java.util.concurrent.ScheduledExecutorService;
 /**
  *@jsphlim
- * ps:服务器用的是贻圣师兄的
  */
 public class Client {
 
